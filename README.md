@@ -1,3 +1,5 @@
+# Personal Fork -- original under https://github.com/dokato/todor !
+
 # TODOr
 
 <img src="images/hexstick.png" align="right" alt="" width="150" />
